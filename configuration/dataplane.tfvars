@@ -19,7 +19,7 @@ prefix = "osdu-self"
 resource_tags = {
   environment = "Self Managed OSDU"
   contact = "H Mahesh"
-  repo = "https://github.dev/danielscholl/self-managed-osdu"
+  repo = "https://github.com/mstest123/self-managed-osdu_from_Daniel"
 }
 
 # Network Addressing
