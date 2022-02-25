@@ -13,8 +13,8 @@ prefix = "osdu-self"
 
 resource_tags = {
   environment = "Self Managed OSDU"
-  contact = "<your_name>"
-  repo = "https://github.dev/danielscholl/self-managed-osdu"
+  contact = "H Mahesh"
+  repo = "https://github.com/mstest123/self-managed-osdu_from_Daniel"
 }
 
 data_partition_name = "opendes"
